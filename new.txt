@@ -1,1 +1,2 @@
 this is my new file starting with git
+second commit
